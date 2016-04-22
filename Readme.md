@@ -1,3 +1,5 @@
-## Digital Signage
+### Digital Signage
 
-Project code sharing
+**Project** code sharing
+
+Edited by Ken
